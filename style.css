@@ -1,15 +1,7 @@
 body {
     margin: 0;
 }
-pre {
-    margin: 2em;
-    text-align: center;
-    font-size: 14px;
-    font-weight: lighter;
-    padding-top: 20px;
-    margin: auto;
-    
-}
+
 img {
  margin-top: 2em;
  display: block;
@@ -44,13 +36,5 @@ h3 {
     width: 25%;
     float: left;
 }
-@media only screen and (min-width:500px) and (max-width:800px){ 
-    .badled {
-        width: 50%;
-    }
-@media only screen and (max-width:500px){
-    .badled {
-        width: 100%;
-    }
-}
-}
+
+
